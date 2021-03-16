@@ -1,3 +1,6 @@
+![Screenshot 1](https://github.com/miles-crighton/deep-purple-iterm/blob/master/screenshot1.png)
+![Screenshot 2](https://github.com/miles-crighton/deep-purple-iterm/blob/master/screenshot2.png)
+
 ## To download
 
 Navigate to a folder you want to download into, then run the curl command:
